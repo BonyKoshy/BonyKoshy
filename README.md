@@ -63,6 +63,7 @@ Blender • Figma • VSCode • Linux/Bash
 
 </details>
 
+---
 
 ## 🚀 Project Spotlight – `Connectly`  
 **AI-Enhanced Multilingual Chat Application**  
@@ -100,12 +101,31 @@ Blender • Figma • VSCode • Linux/Bash
 
 ## 📫 Connect  
 
-<p align="center">
-  <a href="mailto:bonykoshy@gmail.com"><img src="https://img.shields.io/badge/email%20📧-bonykoshy@gmail.com-006bed?style=flat-square" alt="email" /></a>
-  <a href="https://linkedin.com/in/bonykoshy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/BonyKoshy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://instagram.com/bonn_i.e" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+<!-- Modern Icon Button Contact Section -->
+
+<div style="display: flex; gap: 1rem; align-items: center;">
+  <!-- Email -->
+  <a href="mailto:bonykoshy@gmail.com" title="Email">
+    <img src="https://img.icons8.com/ios-filled/50/006bed/new-post.png" width="32" height="32" alt="Email Icon"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/bonykoshy" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn Icon"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/BonyKoshy" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub Icon"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/bonn_i.e" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="32" height="32" alt="Instagram Icon"/>
+  </a>
+</div>
+
+
 
 ---
 
