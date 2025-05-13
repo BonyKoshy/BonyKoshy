@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bony Koshy</h1>
+<h1 align="center">Hi 👋🏻, I'm Bony Koshy</h1>
 <h3 align="center">Tech Savvy Dreamer | Animation Ace | Future Innovator at Accenture</h3>
 
 - 🔭 I’m currently working on [Connectly](https://github.com/BonyKoshy/Connectly)
