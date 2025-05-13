@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👾 Bony Koshy — Full-Stack Developer & Real-Time Systems Enthusiast</h1>
+<h1 align="center"> Bony Koshy — Full-Stack Developer & Real-Time Systems Enthusiast</h1>
 <p align="center">
   <em>Blending Code & Creativity | Animation Whisperer | AI & Cloud 🪄</em>
 </p>
